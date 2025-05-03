@@ -1,0 +1,5 @@
+module QML_Challenge_BusinessCard
+typeinfo appQML_Challenge_BusinessCard.qmltypes
+prefer :/qt/qml/QML_Challenge_BusinessCard/
+Main 1.0 Main.qml
+
