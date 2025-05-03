@@ -1,5 +1,3 @@
-# QML_Challenge_BusinessCard
-
 # QML Business Card App
 
 This is a simple QML-based Business Card application that displays user information in a styled interface. The app includes a theme switcher for changing the color scheme dynamically.
