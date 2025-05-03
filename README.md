@@ -11,6 +11,8 @@ This is a simple QML-based Business Card application that displays user informat
 ## Screenshots
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/83cc728b-9f05-44a9-beda-d86c742797a2" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2ceb56bf-2a6c-44b3-8f96-b412bdf7e803" />
+
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ba17a3d3-140f-4dc0-bbe5-1334d1c78ca9" />
 
