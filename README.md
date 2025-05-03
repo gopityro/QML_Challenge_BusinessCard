@@ -9,7 +9,6 @@ This is a simple QML-based Business Card application that displays user informat
 - Display name, occupation, company, and contact details.
 - Toggle between basic and detailed views.
 - Dynamic theme switching (e.g., Black, Blue themes).
-- Responsive UI with Qt Quick Controls.
 
 ## Screenshots
 
@@ -38,5 +37,3 @@ This is a simple QML-based Business Card application that displays user informat
     ```bash
     qmlscene main.qml
     ```
-
-## Folder Structure
